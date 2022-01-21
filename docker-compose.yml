@@ -1,0 +1,5 @@
+services:
+  cv:
+    build: cv
+    ports:
+      - 80:80
